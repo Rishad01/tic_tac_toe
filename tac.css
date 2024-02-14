@@ -1,0 +1,36 @@
+
+body{
+    background: linear-gradient(to right top, #A9F1DF,  #bd6767);
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+}
+#table{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.row{
+    display: flex;
+    text-align: center;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    margin: 0;
+    text-align: center;
+}
+.regular {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+#reset{
+    text-align: center;
+    max-height: 75px;
+    border: none;
+    border-radius: 15px;
+}
